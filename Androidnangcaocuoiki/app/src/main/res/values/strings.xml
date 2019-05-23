@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android nang cao cuoi ki</string>
+    <string name="description">Description</string>
+    <string name="id">ID</string>
+    <string name="price">Price</string>
+    <string name="producer">producer</string>
+    <string name="product">Productname</string>
+    <string name="login">Add</string>
+    <string name="Add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="txt_id">key</string>
+    <string name="logout">Logout</string>
+    <string name="sync">Sync</string>
+</resources>
