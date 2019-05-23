@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HoAnhTuan_1706020096_11TH1C</string>
+    <string name="tv_user">Username</string>
+    <string name="tv_pass">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="txtMon">Tên Môn Học</string>
+    <string name="txtMa">Mã số </string>
+    <string name="txttinchi">Tín chỉ</string>
+    <string name="txtTensv">Tên sv</string>
+    <string name="txt_nganh">Ngành</string>
+    <string name="txt_Msv">Mã số sv</string>
+    <string name="txt_Mon">Môn học</string>
+    <string name="txt_Ma">Mã sách</string>
+    <string name="txt_back">Back</string>
+    <string name="btn_Infor">Information</string>
+</resources>
